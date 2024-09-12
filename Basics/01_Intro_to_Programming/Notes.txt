@@ -1,0 +1,71 @@
+                  
+
+                   Introduction to Java Programming...........
+
+    Java is a high level , Object-Oriented Programming language.
+
+    Java was developed by Sun-microsystems (which is now a subsidiary of Oracle) in 1995.
+    Before Java it was named as Oak.
+
+    James Gosling is known as the father of Java.
+
+    High Level language => it is easy to understand,debug,portable,do not depend on machines and are widely used .
+    Low Level language => machine friendly , not portable and difficult to understand .
+
+              
+
+                 History of Java
+    James Gosling and his team was working to develop a language for television industry in 1995.
+    Gosling worked om this project with his team that is called Green team and the project is called Greentalk.
+    Here comes the rise of Java.
+    Initially it was named as Oak as per roots of Oak was outside the office of Gosling.
+    
+
+                 Features of Java 
+
+     Simple
+     Portable
+     Robust
+     Object-Oriented
+     Multithreaded
+     Secured
+     Platform-Independent
+     Interpreted
+     Dynamic
+     High Performance 
+
+
+
+                 Applications of Java
+
+    1. Standalone Applications => Desktop applications , window-based applications. ex:- media-player,antivirus
+    2. Web Applications => Runs on server side and creates a dynamic page . ex:- servlet,jsp
+    3. Enterprise Applications => distributed in nature. ex:- EJB
+    4. Mobile Applications => mobile devices. ex:- Android
+
+
+
+                Comments in Java
+    
+    1. Single Line Comment => //
+    2. Multiline Comment =>  /* ..........*/
+    3. Documentation Comment => /** ..........*/
+
+
+
+                   JVM > JRE > JDK
+
+                   Java program is converted into Java bytecodes which is then translated by JVM into machine codes
+                   which can be then understood by the CPU to get the output .
+
+    1. Java Virtual machine (JVM) -> Virtual machine that provides a runtime environment to execute java bytecodes.
+                                     it doesn't exist physically.
+
+    2. Java Runtime Environment -> provides java libraries and other files to run java 
+                                   it exists physically
+
+    3. Java Development Kit -> superset of JRE and creates java applications
+                               1.Java Enterprise Edition
+                               2.Java Standard Edition
+                               3.Java Mobile Edition
+

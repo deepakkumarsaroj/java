@@ -1,0 +1,23 @@
+
+
+                ......Taking Input.......
+
+                Scanner Class is used to get the user input and it is found in `import.java.util.*; ` package.
+                To use Scanner Class , create an object of the class and use any of the available methods found in 
+                Scanner class.
+
+                Input in java :---- next
+                                    nextLine
+                                    nextFloat
+                                    nextInt
+                                    nextByte
+                                    nextDouble
+                                    nextBoolean
+                                    nextShort
+                                    nextLong
+
+                           
+
+               Output in Java :----- System.out.print();
+                                    System.out.println();
+                                    System.out.printf();
